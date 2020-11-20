@@ -1,8 +1,8 @@
 # COVID19_Unemployment_Education
-## Analyzing the relationship between COVID-19, unemployment, and education in the U.S.
-### David Wiley, Jessica Lynch, Jenna Castañeda, Azeezat Adekanmbi
+## The Effects of COVID-19, Unemployment, and Education Level per County in the U.S.
+### By: David Wiley, Jessica Lynch, Jenna Castañeda, Azeezat Adekanmbi
 #### Texas Tech University - Business Intelligence (ISQS 6339)
-#### Professor Dr. David J. Lucas
+##### Professor Dr. David J. Lucas
 
 This was a team project created to merge seemingly unrelated data into a single dataset and analyzed to discover any correlations. Python was the scripting language used to clean and parse the data collected from various sources. Tableau was the program used for the visualizations.
 
