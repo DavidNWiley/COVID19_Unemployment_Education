@@ -1,2 +1,15 @@
 # COVID19_Unemployment_Education
-Analyzing the relationship between COVID-19, unemployment, and education in the U.S.
+## Analyzing the relationship between COVID-19, unemployment, and education in the U.S.
+### David Wiley, Jessica Lynch, Jenna Castañeda, Azeezat Adekanmbi
+#### Texas Tech University - Business Intelligence (ISQS 6339)
+#### Professor Dr. David J. Lucas
+
+This was a team project created to merge seemingly unrelated data into a single dataset and analyzed to discover any correlations. Python was the scripting language used to clean and parse the data collected from various sources. Tableau was the program used for the visualizations.
+
+## Conclusion
+
+We obtained data for the prevalence of COVID-19 per county by month, unemployment rates per county by month, and education level per county in the US. We then cleaned and merged these datasets to evaluate the interactions between each. We assumed that regions with larger labor forces would have a higher number of cases and deaths due to COVID-19. We were able to find evidence to support this assumption, as our correlation matrix depicted a strong positive correlation between labor force and both cases and deaths. In other words, as the labor force increases, so does the number of COVID-19 cases and deaths.
+
+We also assumed that those with a four-year degree or higher would be less affected by COVID-19 than other education levels. Though we were not able to prove or disprove this statement, we did learn that there is little correlation between all four education levels and COVID-19 case numbers. There is a correlation between COVID-19 cases and related deaths for those with an advanced degree (bach_plus_pct) and a correlation between labor force and those with an advanced degree. However, not all education subsets supported this assumption, and therefore, further investigation would be needed to conclusively support this. Additionally, this correlation can potentially be explained by the strong correlation between labor force and cases.
+
+Through the combination of these originally unrelated data sets, we were given the opportunity to provide insight on how to mitigate the effects of the pandemic. The correlation between labor force and COVID-19 cases and deaths could affect businesses positively or negatively. This depends on whether demand for a business's supply increases or decreases during a pandemic. Businesses such as grocery stores will likely experience demand increase as the population spends more time at home, while businesses such as movie theaters and bowling alleys will see their demand decrease for the same reason. Businesses with the capacity to adapt to an ever-changing pandemic related situation are more likely to remain afloat during this time. Additionally, at the beginning of the pandemic, resources can be allocated to the cities with the largest labor force to mitigate the effects of the pandemic before the situation worsens. Overall, the ability to combine and analyze multiple unrelated datasets in an effort to better see how COVID-19 affects the US may provide useful information to combat and alleviate the effects of possible future pandemics.
