@@ -1,6 +1,6 @@
 # COVID19_Unemployment_Education
 ## The Effects of COVID-19, Unemployment, and Education Level per County in the U.S.
-### By: David Wiley, Jessica Lynch, Jenna Castañeda, Azeezat Adekanmbi
+### By: Jessica Lynch, Jenna Castañeda, David Wiley, Azeezat Adekanmbi
 #### Texas Tech University - Business Intelligence (ISQS 6339)
 ##### Professor Dr. David J. Lucas
 
